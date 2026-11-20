@@ -1,6 +1,6 @@
-# IEI SMS Management System
+# IEI Credential Management System
 
-A web-based platform for sending SMS notifications and password credentials to IEI (Institution of Engineers India) members.
+A web and AI based platform for sending SMS notifications and password credentials to IEI (Institution of Engineers India) members.
 
 ## 🚀 Quick Start
 
